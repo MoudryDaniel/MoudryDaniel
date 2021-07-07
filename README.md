@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. my name is Daniel and I study at BUT (Brno University of Technology) in Czech Republic 👋
 
 - 🔭 I’m currently working on my bachelor's thesis
 - 🌱 I’m currently learning basically everything, because one never knows enough
