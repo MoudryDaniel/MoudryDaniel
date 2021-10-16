@@ -1,3 +1,4 @@
+![](https://github.com/MoudryDaniel/MoudryDaniel/blob/master/banner.png?raw=true)
 ### Hi there 👋, my name is Daniel and I study at BUT (Brno University of Technology) in Czech Republic
 
 - 🔭 I’m currently working on my bachelor's thesis
