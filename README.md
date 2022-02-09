@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning basically everything, because one never knows enough
 - 💬 Ask me about anything
 
+|
 ### Languages and Tools:
 <a href="https://www.blender.org/" target="_blank">
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40"   height="40">
@@ -34,4 +35,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true)
 |
 <a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
-
+|
