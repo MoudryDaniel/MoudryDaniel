@@ -40,7 +40,7 @@
   ---
  
  <p>
-  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/>
+  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="200" alt="Daniel's Dev Card"/>
 </p>
  
 ### Boy Scout Rule
