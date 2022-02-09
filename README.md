@@ -8,7 +8,6 @@
 
 
 
-<p float="left">
   <div markdown="1">
     
     ### Languages and Tools:
@@ -42,4 +41,4 @@
 </div>
   
   <a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
-</p>
+
