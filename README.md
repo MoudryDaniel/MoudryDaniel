@@ -40,7 +40,7 @@
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/>
 </p>
  
 ### Boy Scout Rule
