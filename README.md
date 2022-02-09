@@ -33,6 +33,6 @@
 </a>
 
 <p float="left">
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true">
   <a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
 </p>
