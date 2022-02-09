@@ -37,11 +37,7 @@
   <a href="https://app.daily.dev/DanielMoudry" align="right"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
 </p>
 
----
-
 dsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasd
 <p>
-  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card" align="right" />
+  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="200" alt="Daniel's Dev Card" align="right" />
 </p>
-
----
