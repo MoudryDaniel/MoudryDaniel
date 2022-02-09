@@ -33,18 +33,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true)
 
-<p>
-  <a href="https://app.daily.dev/DanielMoudry" align="right"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
-</p>
-
-  ---
- 
- <p>
-  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="200" alt="Daniel's Dev Card"/>
-</p>
- 
-### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
+<a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="300" alt="Daniel's Dev Card"/></a>
