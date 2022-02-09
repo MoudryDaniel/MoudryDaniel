@@ -9,7 +9,7 @@
 
 
 <p float="left">
-  <span>
+  <div>
     
     ### Languages and Tools:
     <a href="https://www.blender.org/" target="_blank">
@@ -38,7 +38,8 @@
     </a>
     
     ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true)
-  </span>
+  
+</div>
   
   <a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
 </p>
