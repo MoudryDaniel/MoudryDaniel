@@ -15,7 +15,8 @@
     <div style="margin-left: 50%; height: 100px; background: blue;"> 
         Right Div
     </div>
-  </div>
+</div>
+  
 <div markdown="1">
   
     ### Languages and Tools:
