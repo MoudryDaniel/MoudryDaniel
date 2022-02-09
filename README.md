@@ -8,7 +8,15 @@
 
 
 
-  <div markdown="1">
+<div style="width: 100%;">
+    <div style="width: 50%; height: 100px; float: left; background: green;"> 
+        Left Div 
+    </div>
+    <div style="margin-left: 50%; height: 100px; background: blue;"> 
+        Right Div
+    </div>
+  </div>
+<div markdown="1">
   
     ### Languages and Tools:
     <a href="https://www.blender.org/" target="_blank">
