@@ -39,5 +39,5 @@
 
 dsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasddsadsadasdasd
 <p>
-  <img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="200" alt="Daniel's Dev Card" align="right" />
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
