@@ -32,10 +32,12 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </a>
 
+<p float="left">
+  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true)
 
-<p float="left">
+
     
-  <img src="https://github-readme-stats.vercel.app/api?username=MoudryDaniel&count_private=true&show_icons=true&include_all_commits=true">
+  
   <a href="https://app.daily.dev/DanielMoudry"><img src="https://github.com/MoudryDaniel/MoudryDaniel/blob/master/devcard.svg" width="400" alt="Daniel's Dev Card"/></a>
 </p>
